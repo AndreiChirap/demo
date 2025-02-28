@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    andrei:
+      email: blabla
+      name: Andrei Chirap/Hera
+      password: $2b$12$eThodn8344jNOMzoJFIIwuB9zUxBchq/1wjTgk8l0nOHeCz4b1wCW
+    vrigil:
+      email: blabla
+      name: Virgil Petcu
+      password: $2b$12$X3dKHfyuUSI4mrRe2R3yoO/YHoRy7wlP3nSu9zWZOZZzV4XKmPTJC
+cookie:
+  expiry_days: 30
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - melsby@gmail.com
